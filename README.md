@@ -39,7 +39,7 @@ O script visa:
 
 ### Endereços das Paradas
 
-Os endereços das paradas devem ser fornecidos em uma lista, por exemplo:
+Os endereços das paradas devem ser fornecidos no arquivo excel Endereços na pasta input (a origem deve ser o primeiro endereço da lista), por exemplo:
 
 ```python
 enderecos = ['Parque Villa-Lobos, Alto de Pinheiros, são paulo, Brazil',
@@ -83,7 +83,7 @@ Apenas rode cada uma das celulas do notebook.
    ```python
    localidade = 'São Paulo, Brazil'
    distancia = 50000  # 50 km
-   enderecos = Para os endereços preenche a planinha em Excel na pasta input com os endereços a ser roteirizados. Lembrando que a origem deve ser o primeiro endereço da planilha.
+   enderecos = lista criada a partir do input em Excel
    ```
 
 3. **Execute o script**:

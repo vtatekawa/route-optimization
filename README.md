@@ -11,7 +11,6 @@
 - [Dependências](#dependências)
 - [Uso](#uso)
 - [Saída](#saída)
-- [Licença](#licença)
 
 ---
 
@@ -104,12 +103,6 @@ Após executar o script, você obterá:
 ### Exemplo de Saída
 
 ![Exemplo de Mapa Interativo](mapa_da_rota.html)
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
